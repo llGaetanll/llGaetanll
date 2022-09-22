@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile. On this page, you'll find a list of projects I've worked or am working on. Click on any of them to learn more.
 <!--
 **llGaetanll/llGaetanll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
