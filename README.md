@@ -1,6 +1,8 @@
 ## Hi, I'm Gaetan
 
-Welcome to my GitHub profile. On this page, you'll find all of the major projects I've worked or am working on. I like working on a variety of different things. To get you started, here's a list of projects you can check out, in addition to my pins
+Welcome to my GitHub profile. On this page, you'll find all of the major projects I've worked or am working on. I like working on a variety of different things. To get you started, here's a list of projects you can check out, in addition to my pins.
+
+All repos are well documented. Feel free to explore any of them to learn more.
 
 ### Web
 - [**Klue**](https://github.com/llGaetanll/Klue) - A web app built using Next.js and Redux for spaced-repetition learning.
