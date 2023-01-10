@@ -9,7 +9,7 @@ All repos are well documented. Feel free to explore any of them to learn more.
 
 ### Machine Learning
 - [**Pokemon Classification**](https://github.com/llGaetanll/PokemonClassification) - Compared Pokemon tier classification results between multiple machine learning models, including Multiclass Logistic Regression, Feedforward Neural Networks, and Explainable Boosted Machines.
-- [**WikiSimilarity**](https://github.com/llGaetanll/WikiSimilarity) - Analyzed correlation between semantic similarity and wikipedia distance for the top $1000$ wikipedia pages.
+- [**WikiSimilarity**](https://github.com/llGaetanll/WikiSimilarity) - Analyzed correlation between semantic similarity and wikipedia distance for the top $1000$ wikipedia pages using Word2Vec.
 
 ### Algorithms
 - [**Dynamic Programming**](https://github.com/llGaetanll/DynamicProgramming) - My implementation of various dynamic programming problems from [this amazing course](https://www.youtube.com/watch?v=oBt53YbR9Kk) by freeCodeCamp.
@@ -20,18 +20,3 @@ All repos are well documented. Feel free to explore any of them to learn more.
 
 ### Graphics
 - [**ca-to-gol**](https://github.com/llGaetanll/ca-to-gol) - Feeding 1D Cellular Automata as input to Conway's Game of Life, purely for artistic purposes.
-
-<!--
-**llGaetanll/llGaetanll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
