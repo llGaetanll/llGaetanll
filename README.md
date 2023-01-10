@@ -7,6 +7,10 @@ All repos are well documented. Feel free to explore any of them to learn more.
 ### Web
 - [**Klue**](https://github.com/llGaetanll/Klue) - A web app built using Next.js and Redux for spaced-repetition learning.
 
+### Machine Learning
+- [**Pokemon Classification**](https://github.com/llGaetanll/PokemonClassification) - Compared Pokemon tier classification results between multiple machine learning models, including Multiclass Logistic Regression, Feedforward Neural Networks, and Explainable Boosted Machines.
+- [**WikiSimilarity**](https://github.com/llGaetanll/WikiSimilarity) - Analyzed correlation between semantic similarity and wikipedia distance for the top $1000$ wikipedia pages.
+
 ### Algorithms
 - [**Dynamic Programming**](https://github.com/llGaetanll/DynamicProgramming) - My implementation of various dynamic programming problems from [this amazing course](https://www.youtube.com/watch?v=oBt53YbR9Kk) by freeCodeCamp.
 - [**obx**](https://github.com/llGaetanll/obx) - A Javascript library I built to make working with objects easier.
